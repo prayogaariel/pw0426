@@ -1,0 +1,28 @@
+<html>
+   <head>
+      <link href="responsi.css" rel="stylesheet">
+   </head>
+   <body>
+<!-- elemen header -->
+   <div class="header">
+<h1>WELCOME TO OUR<br/>
+<small>It's Nice To Meet You </small>
+</h1>
+</div>
+
+<!-- elemen menu -->
+<div class="menu">
+	<ul>
+	<li><a href="website.css">PROJECT</a></li>
+	
+	</ul>
+</div>
+<!-- elemen content -->
+<div class="content">
+<div class="subc"></div>
+<div class="subc"></div>
+<div class="subc"></div>
+</div>
+<div class="footer"></div>
+</body>
+</html>
